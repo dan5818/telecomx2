@@ -1,1 +1,60 @@
+# 📡 Telecom X — ¿Por qué se van nuestros clientes? (README fácil)
+
+**Objetivo:** entender **por qué algunas personas cancelan** su servicio y qué podemos hacer para que **se queden felices**.
+
+---
+
+## 🧠 ¿Qué es “churn”?
+“Churn” = **cancelaciones**.  
+Si un cliente deja el servicio, contamos 1 de churn. Si se queda, 0.
+
+---
+
+## 🔍 ¿Qué hicimos?
+1. **Traer datos** desde un archivo (como una lista grande de clientes).
+2. **Ordenarlos y limpiarlos** (arreglar vacíos, nombres y números raros).
+3. **Mirarlos con gráficos** para ver patrones.
+4. **Sacar ideas** para mejorar y evitar cancelaciones.
+
+---
+
+## 📊 Lo más importante que vimos
+- **Contrato “Mes a Mes”** 👉 se **cancela más** que contratos de **1 o 2 años**.  
+- **Pagar con Cheque Electrónico** 👉 se **cancela más** que con pagos automáticos (tarjeta/transferencia).  
+- **Antigüedad (tenure)** 👉 **mientras más tiempo** llevan con nosotros, **menos cancelan**.  
+- **Cargos mensuales altos** 👉 **sube** la chance de cancelar.  
+- **Fibra óptica** 👉 en varios casos aparece con **más cancelaciones** que otros tipos de internet.  
+- **Género** 👉 **no cambia** mucho las cancelaciones.
+
+> Pista de lectura de gráficos:  
+> - **Barras a la derecha (positivas)** = aumenta la cancelación.  
+> - **Barras a la izquierda (negativas)** = ayuda a que se queden.
+
+---
+
+## 🛠️ ¿Qué haríamos para mejorar?
+- **Invitar a pasar de Mes a Mes → 1 o 2 años** con **descuentos** o **beneficios** 🎁  
+- **Acompañar a los nuevos** (primeros 90 días): tutoriales y **soporte rápido** 🛟  
+- **Revisar precios/paquetes** para que paguen lo justo y no se asusten 💸  
+- **Promover pagos automáticos** con un pequeño **descuento** ✅
+
+---
+
+## 💻 ¿Cómo lo veo en Colab?
+1. **Abre el cuaderno** (notebook) y **ejecuta las celdas** de arriba hacia abajo.  
+2. Cuando veas los **gráficos**, busca qué barras son **más largas**: esas variables son las más importantes.
+
+---
+
+## 📚 Mini glosario
+- **Contrato:** cómo paga el cliente (mensual, 1 año, 2 años).  
+- **Tenure:** **meses** que lleva con nosotros.  
+- **Cargos mensuales:** lo que **paga cada mes**.  
+- **Churn/Evasión:** cuando el cliente **se va**.
+
+---
+
+## 🏁 Conclusión
+Para reducir cancelaciones: **mejores contratos, buen inicio, precios claros y pagos automáticos**.  
+Así los clientes **se quedan**, y todos **ganamos**. ✨
 
